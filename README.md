@@ -1,6 +1,4 @@
-# MDC-100 Series of Codelabs
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# Teknologi Mobile
+## Biodata
+NIM: 2100016008  
+Nama: Muhammad Abduh  
